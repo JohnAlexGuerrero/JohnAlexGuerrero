@@ -1,6 +1,8 @@
-## Hi there 👋
+<small>johnalexguerrero@gmail.com</small>
 
-<h1>HI, I´M JohnAlexGuerrero</h1>
+<h1>Hi, I´m JohnAlexGuerrero</h1>
+<br>
+
 <!--
 **JohnAlexGuerrero/JohnAlexGuerrero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
