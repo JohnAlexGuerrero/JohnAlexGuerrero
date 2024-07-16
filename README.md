@@ -19,7 +19,14 @@ i am passinate backend programmer and a love for writing script in java, python 
 -->
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+##Backend
+[![My Skills](https://skillicons.dev/icons?i=java,docker,fastapi,firebase,django,flask,rails,spring)](https://skillicons.dev)
+
+##Data Scients
+[![My Skills](https://skillicons.dev/icons?i=py,anaconda,mysql,mongodb)](https://skillicons.dev)
+
+##Frontend
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,boostrap,vue)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
