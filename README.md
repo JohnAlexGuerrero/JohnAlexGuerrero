@@ -22,7 +22,7 @@ i am passinate backend programmer and a love for writing script in java, python 
 ##Backend
 [![My Skills](https://skillicons.dev/icons?i=java,docker,fastapi,firebase,django,flask,rails,spring)](https://skillicons.dev)
 
-##Data Scients
+##Data Scientist
 [![My Skills](https://skillicons.dev/icons?i=py,anaconda,mysql,mongodb)](https://skillicons.dev)
 
 ##Frontend
